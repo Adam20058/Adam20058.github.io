@@ -1,16 +1,16 @@
-title:              My Blog
+title:              Almost There
 email:              adamjemal93@gmail.com
-description:        I made this blog to share some tech news, review programming concepts, and to create a time capsule in order to casually cringe at my own work in the future.
+description:        Tech news, Programming concepts, and The Human Psychology Behind User Experience
 author:             Adam Jemal
 baseurl:            ""
 url:                "https://Adam20058.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   Adam_Jemal93
+github_username:    Adam20058
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: adamjemal
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
