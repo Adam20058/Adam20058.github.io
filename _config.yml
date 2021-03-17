@@ -1,24 +1,24 @@
-title:              Almost There
-email:              adamjemal93@gmail.com
-description:        Tech news, Programming concepts, and The Human Psychology Behind User Experience
-author:             Adam Jemal
-baseurl:            ""
-url:                "https://Adam20058.github.io"
+title: Almost There
+email: adamjemal93@gmail.com
+description: 👋 Hi! I'm Adam. Welcome to my blog
+author: Adam Jemal
+baseurl: ""
+url: "https://Adam20058.github.io"
 
 # Social Profiles
-twitter_username:   Adam_Jemal93
-github_username:    Adam20058
-facebook_username:  
-instagram_username:  
+twitter_username: Adam_Jemal93
+github_username: Adam20058
+facebook_username:
+instagram_username:
 linkedin_username: adamjemal
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
